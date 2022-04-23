@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # MIT License
 # Copyright (c) 2020 kurosawa
 # Permission is hereby granted, free of charge, to any person obtaining a copy
